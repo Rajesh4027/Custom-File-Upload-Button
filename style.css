@@ -45,6 +45,8 @@ label{
 }
 #num-of-files{
     font-weight: 200;
-    width: 200px; 
+    text-align: center; 
+    margin: 1.25em 0 1.87em 0;
+
 
 }
